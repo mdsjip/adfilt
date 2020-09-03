@@ -1061,8 +1061,8 @@
 ! The entire goddamn country of PR-China
 ! Spamming my server with 321 requests for "pizzaseo.com" from the same IP within 60 seconds, was the last damn straw!
 ! Below in this paragraph are entries that I borrowed from Pexcn Daily, which is maintained by https://github.com/pexcn at https://github.com/pexcn/daily/, and which is licenced under GPL-3.0.
-!#include External/chnroute-hard.txt
-!#include External/chnroute-v6-hard.txt
+!#include external/chnroute/chnroute.txt
+!#include external/chnroute/chnroute-v6.txt
 
 ! ICSI
 67.21.36.2/23
